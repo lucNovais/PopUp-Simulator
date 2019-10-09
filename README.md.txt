@@ -1,3 +1,3 @@
 #PopUp Simulator:
 
-Pequeno algoritmo ainda em desenvolvimento que simula janelas de PopUp na tela.
+Pequeno algoritmo em desenvolvimento para simular janelas aparecendo na tela do usuário.
