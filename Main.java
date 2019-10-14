@@ -1,4 +1,4 @@
-package main;
+package PopUp-Simulator;
 
 public class Main
 {
